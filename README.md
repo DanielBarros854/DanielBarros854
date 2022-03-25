@@ -3,7 +3,9 @@
  [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Barros-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barros-238686206/)](https://www.linkedin.com/in/daniel-barros-238686206/) 
 [![Gmail Badge](https://img.shields.io/badge/-danielfebarros@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfebarros@gmail.com)](mailto:danielfebarros@gmail.com)
   
+<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
+- 💻 Back-end developer
 - 🔭 I'm currently working with back-end
 - 🌱 I'm currently learning NodeJs, Typescript
 - 📫 How to reach me: danielfebarros@gmail.com
