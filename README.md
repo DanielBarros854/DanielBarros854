@@ -24,6 +24,7 @@
   <img align="center" alt="Logo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" alt="Logo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Logo-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Logo-Prisma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
 </div>
   
   ##
